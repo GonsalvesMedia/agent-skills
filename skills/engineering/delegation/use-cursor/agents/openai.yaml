@@ -1,0 +1,4 @@
+interface:
+  display_name: "Use Cursor"
+  short_description: "Delegate reviews and patches to Cursor CLI"
+  default_prompt: "Use $use-cursor with Grok 4.7 high (fast off) to get an independent Cursor review of this work."

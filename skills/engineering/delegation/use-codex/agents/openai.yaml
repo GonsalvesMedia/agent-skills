@@ -1,0 +1,4 @@
+interface:
+  display_name: "Use Codex"
+  short_description: "Delegate work to GPT-6 Codex CLI"
+  default_prompt: "Use $use-codex with Sol and medium reasoning for an independent review of this work."

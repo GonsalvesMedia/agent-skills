@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evaluate Skills"
+  short_description: "Blind-test and improve agent skills"
+  default_prompt: "Use $eval-skills to evaluate this skill against these golden cases."

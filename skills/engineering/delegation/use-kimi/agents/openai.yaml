@@ -1,0 +1,4 @@
+interface:
+  display_name: "Use Kimi"
+  short_description: "Delegate reviews and patches to Kimi Code CLI"
+  default_prompt: "Use $use-kimi for an independent Kimi review of this work."

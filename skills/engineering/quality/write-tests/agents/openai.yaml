@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Tests"
+  short_description: "Write durable behavior-focused tests"
+  default_prompt: "Use $write-tests to add focused tests for this behavior."

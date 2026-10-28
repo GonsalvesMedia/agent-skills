@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refactor Clean"
+  short_description: "Consolidate ownership without sediment"
+  default_prompt: "Use $refactor-clean to simplify this code without compatibility sediment."

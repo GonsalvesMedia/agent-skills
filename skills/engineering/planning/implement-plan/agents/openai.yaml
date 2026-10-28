@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implement Plan"
+  short_description: "Execute an approved plan phase by phase"
+  default_prompt: "Use $implement-plan to execute the approved plan I identified."

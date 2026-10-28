@@ -1,0 +1,4 @@
+interface:
+  display_name: "Use Claude"
+  short_description: "Delegate work to Claude Code CLI"
+  default_prompt: "Use $use-claude for an independent read-only review of this work."

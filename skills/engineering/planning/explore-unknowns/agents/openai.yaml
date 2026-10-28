@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explore Unknowns"
+  short_description: "Map ambiguity before committing to a plan"
+  default_prompt: "Use $explore-unknowns to map what we know and need to learn about this request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Changes"
+  short_description: "Premise-first code and plan review"
+  default_prompt: "Use $review-changes to review the scoped changes in this workstream."

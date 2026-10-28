@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Handoff"
+  short_description: "Prepare a read-only-by-default handoff prompt"
+  default_prompt: "Use $handoff to gather context and prepare a handoff for another agent."
