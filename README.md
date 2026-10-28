@@ -37,3 +37,7 @@ done
 | `refactor-clean` | `skills/engineering/quality/refactor-clean` |
 | `review-changes` | `skills/engineering/quality/review-changes` |
 | `write-tests` | `skills/engineering/quality/write-tests` |
+
+## License
+
+MIT. See [LICENSE](LICENSE).
