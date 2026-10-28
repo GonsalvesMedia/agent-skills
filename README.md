@@ -8,8 +8,16 @@ pull requests can't be merged here. Open an issue instead.
 
 ## Install
 
-Link each skill into the folders your agents read. Existing entries with the
-same name are left alone:
+With the [skills CLI](https://skills.sh), pick skills and agents interactively:
+
+```bash
+npx skills add GonsalvesMedia/agent-skills
+npx skills add GonsalvesMedia/agent-skills --skill handoff   # one skill
+npx skills add GonsalvesMedia/agent-skills -g                # every project, not just this one
+```
+
+Or clone this repository and link each skill into the folders your agents read.
+Existing entries with the same name are left alone:
 
 ```bash
 for dest in ~/.agents/skills ~/.claude/skills; do
